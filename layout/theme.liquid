@@ -23,18 +23,22 @@
   {% else %}
     <title>{{ page_title }} | {{ shop.name }}</title>
   {% endif %}
-  
+
   {% if page_description %}
   <meta name="description" content="{{ page_description }}" />
   {% endif %}
-  
+
   <link rel="canonical" href="{{ canonical_url }}" />
-  
+
   {% include 'snippet-fb-open-graph-tags' %}
-  
+
   {% include 'snippet-webfont' %}
 
   {{ content_for_header }}
+
+  <!-- custom additions -->
+  {{ 'fonts-definitions.css' | asset_url | stylesheet_tag }}
+  {{ 'fonts-families.css' | asset_url | stylesheet_tag }}
 
   {{ 'style.css' | asset_url | stylesheet_tag }}
 
@@ -100,7 +104,7 @@
       <div class="search-account columns">
         {% include 'snippet-searchbar-account' %}
       </div>
-      
+
     </div><!-- .row -->
 
     <div class="bottom-row">
@@ -108,7 +112,7 @@
         <div class="columns menu-container{% if settings.header-menu-center %} text-center{% endif %}">
           {% include 'snippet-main-menu' %}
         </div>
-        
+
         <div class="columns cart-container">
           {% include 'snippet-cart' %}
         </div>
@@ -129,7 +133,7 @@
 
     <div class="main-menu-dropdown-panel">
       <div class="row{% if settings.header-menu-center %} text-center{% endif %}">
-      
+
       </div>
     </div>
 
@@ -144,7 +148,7 @@
   </header>
 
   <section class="main-content">
-    
+
       {{ content_for_layout }}
   </section>
 
@@ -161,11 +165,11 @@
       </div>
       <div class="column-2 large-4 columns">
         <h2 class="title">{{ settings.footer-block-2-title }}</h2>
-        
+
         <div class="content">
           {% if linklists[settings.footer-block-2-linklist].links.size > 0 %}
             {% assign footer_nav = settings.footer-block-2-linklist %}
-          
+
             <ul class="footer-nav plain-list" role="navigation">
             {% for link in linklists[footer_nav].links %}
               <li><a href="{{ link.url }}" title="{{ link.title }}">{{ link.title }}</a></li>
@@ -205,7 +209,7 @@
                 {{ field }} {{ form.errors.messages[field] }}
               {% endfor %}
               </p>
-            {% endif %}       
+            {% endif %}
             <input type="hidden" id="contact_tags" name="contact[tags]" value="newsletter" />
             <input type="hidden" id="newsletter-first-name" name="contact[first_name]" value="Subscriber" />
             <input type="hidden" id="newsletter-last-name" name="contact[last_name]" value="Newsletter" />
@@ -215,7 +219,7 @@
             {% if form.posted_successfully? or form.errors %}
             <script>window.location.hash = '#mailing-list-module';</script>
             {% endif %}
-            {% endform %} 
+            {% endform %}
             {% endif %}
           {% endif %}
 
@@ -231,13 +235,13 @@
 
             {% if settings.footer-rss-follow-url.size > 0 %}<a title="RSS" aria-hidden="true" target="_blank" class="glyph feed" href="{{ settings.footer-rss-follow-url }}"></a>{% endif %}
           </div>
-        </div> 
+        </div>
       </div>
     </div>
 
     <div class="row">
       <div class="columns">
-        {% if settings.footer-payment-options-show %} 
+        {% if settings.footer-payment-options-show %}
           <ul class="payment-options">
             {% if settings.footer-payment-amex %}<li aria-hidden="true" class="glyph amex"></li>{% endif %}
             {% if settings.footer-payment-diners %}<li aria-hidden="true" class="glyph diners"></li>{% endif %}
@@ -261,7 +265,7 @@
 
   {{ 'plugins.js' | asset_url | script_tag }}
   {{ 'shop.js' | asset_url | script_tag }}
-  
+
 
 
 </body>

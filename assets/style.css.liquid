@@ -1,4 +1,4 @@
-/*    
+/*
  1. - FRAMEWORK
  1.1 - Initialize
  1.2 - Settings
@@ -948,7 +948,7 @@ you can use the generic selector below, but it's slower:
 @keyframes scaleUpTo { to { opacity: 0; transform: scale(1.5); } }
 
 /*
-* 	Owl Carousel Owl Demo Theme 
+* 	Owl Carousel Owl Demo Theme
 *	v1.24
 */
 .owl-theme .owl-controls { margin-top: 10px; text-align: center; }
@@ -1821,7 +1821,10 @@ html, body { /* {% if settings.general-bg-image-enabled %} */ /* {% if settings.
 .account-content table th { word-wrap: break-word; max-width: 130px; }
 
 
-/* custom alterations */
+/*
+  custom alterations
+  */
+
 @media only screen and (min-width: 768px) {
   .template-index .widgets .small-promos {
     padding-left: 8px;
@@ -1830,8 +1833,22 @@ html, body { /* {% if settings.general-bg-image-enabled %} */ /* {% if settings.
     padding-bottom: 15px;
   }
 
-  .image-text-widget{ 
-    margin-left: 7px; 
+  .image-text-widget{
+    margin-left: 7px;
     margin-right: 7px;
   }
 }
+
+/*
+  custom fonts
+*/
+
+.font-nav { font-family: HurmeGeometricSans2-Thin; }
+
+.font-accent { font-family: LubalinGraphStd-Book; }
+
+.font-title { font-family: HurmeGeometricSans2-Bold; }
+
+.font-headings, .template-index .widgets .title { font-family: LubalinGraphStd-ExtraLight; }
+
+h1, h2, h3, h4, h5, h6 { font-family: HurmeGeometricSans2-Regular; }
