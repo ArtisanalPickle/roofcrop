@@ -1843,14 +1843,23 @@ html, body { /* {% if settings.general-bg-image-enabled %} */ /* {% if settings.
   custom fonts
 */
 
-body { font-family: HurmeGeometricSans2-Thin !important; }
+body { font-size: {{settings.font-text-size}}px !important; }
 
+/*
 .font-nav { font-family: HurmeGeometricSans2-Thin !important; }
+*/
+.font-nav { font-size: {{settings.font-nav-size}}px !important; }
 
+/*
 .font-accent { font-family: LubalinGraphStd-Book !important; }
+*/
+.font-accent { font-size: {{settings.font-accent-size}}px !important; }
 
+/*
 .font-title { font-family: HurmeGeometricSans2-Bold !important; }
+*/
+.font-title { font-size: {{settings.font-headings-size}}px !important; }
 
-.font-headings, .template-index .widgets .title { font-family: LubalinGraphStd-ExtraLight !important; }
+.font-headings, .template-index .widgets .title { font-size: {{settings.font-headings-size}}px !important; }
 
-h1, h2, h3, h4, h5, h6 { font-family: HurmeGeometricSans2-Regular !important; }
+h1, h2, h3, h4, h5, h6 { font-size: {{settings.font-headings-size}}px !important; }

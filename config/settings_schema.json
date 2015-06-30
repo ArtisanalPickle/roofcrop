@@ -91,6 +91,196 @@
         "label": "Logo Font",
         "options": [
           {
+            "value": "'LubalinGraphStd-DemiOblique', serif",
+            "label": "LubalinGraphStd-DemiOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-ExtraLight', serif",
+            "label": "LubalinGraphStd-ExtraLight",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-ExtraLight', serif",
+            "label": "LubalinGraphStd-ExtraLight",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-MediumOblique', serif",
+            "label": "LubalinGraphStd-MediumOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-Demi', serif",
+            "label": "LubalinGraphStd-Demi",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-BoldOblique', serif",
+            "label": "LubalinGraphStd-BoldOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-Medium', serif",
+            "label": "LubalinGraphStd-Medium",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-Bold', serif",
+            "label": "LubalinGraphStd-Bold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-BookOblique', serif",
+            "label": "LubalinGraphStd-BookOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-Book', serif",
+            "label": "LubalinGraphStd-Book",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Black', sans-serif",
+            "label": "HurmeGeometricSans1-Black",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-BlackObl', sans-serif",
+            "label": "HurmeGeometricSans1-BlackObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-BoldObl', sans-serif",
+            "label": "HurmeGeometricSans1-BoldObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Black', sans-serif",
+            "label": "HurmeGeometricSans2-Black",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-BoldObl', sans-serif",
+            "label": "HurmeGeometricSans2-BoldObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-BlackObl', sans-serif",
+            "label": "HurmeGeometricSans2-BlackObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Bold', sans-serif",
+            "label": "HurmeGeometricSans1-Bold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Hairline', sans-serif",
+            "label": "HurmeGeometricSans1-Hairline",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Bold', sans-serif",
+            "label": "HurmeGeometricSans2-Bold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Hairline', sans-serif",
+            "label": "HurmeGeometricSans2-Hairline",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Thin', sans-serif",
+            "label": "HurmeGeometricSans1-Thin",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-HairlineObl', sans-serif",
+            "label": "HurmeGeometricSans1-HairlineObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Light', sans-serif",
+            "label": "LubalinGraphStd-DemiOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-HairlineObl', sans-serif",
+            "label": "HurmeGeometricSans2-HairlineObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Light', sans-serif",
+            "label": "HurmeGeometricSans2-Light",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Regular', sans-serif",
+            "label": "HurmeGeometricSans1-Regular",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-SemiBold', sans-serif",
+            "label": "HurmeGeometricSans1-SemiBold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-ThinObl', sans-serif",
+            "label": "HurmeGeometricSans1-ThinObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-LightObl', sans-serif",
+            "label": "HurmeGeometricSans1-LightObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-LightObl', sans-serif",
+            "label": "HurmeGeometricSans2-LightObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-RegularObl', sans-serif",
+            "label": "HurmeGeometricSans1-RegularObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-SemiBoldObl', sans-serif",
+            "label": "HurmeGeometricSans1-SemiBoldObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Thin', sans-serif",
+            "label": "HurmeGeometricSans2-Thin",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Regular', sans-serif",
+            "label": "HurmeGeometricSans2-Regular",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-SemiBold', sans-serif",
+            "label": "HurmeGeometricSans2-SemiBold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-ThinObl', sans-serif",
+            "label": "HurmeGeometricSans2-ThinObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-RegularObl', sans-serif",
+            "label": "HurmeGeometricSans2-RegularObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-SemiBoldObl', sans-serif",
+            "label": "HurmeGeometricSans2-SemiBoldObl",
+            "group": "Roofcrop Custom"
+          },
+          {
             "value": "'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif",
             "label": "Helvetica\/Arial",
             "group": "Sans-serif"
@@ -197,6 +387,12 @@
           }
         ],
         "default": "google, 'Lato', sans-serif"
+      },
+      {
+        "type": "text",
+        "label": "Logo font size (px)",
+        "id": "font-logo-size",
+        "default": "12"
       },
       {
         "type": "select",
@@ -204,6 +400,196 @@
         "label": "Main Menu Font",
         "options": [
           {
+            "value": "'LubalinGraphStd-DemiOblique', serif",
+            "label": "LubalinGraphStd-DemiOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-ExtraLight', serif",
+            "label": "LubalinGraphStd-ExtraLight",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-ExtraLight', serif",
+            "label": "LubalinGraphStd-ExtraLight",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-MediumOblique', serif",
+            "label": "LubalinGraphStd-MediumOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-Demi', serif",
+            "label": "LubalinGraphStd-Demi",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-BoldOblique', serif",
+            "label": "LubalinGraphStd-BoldOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-Medium', serif",
+            "label": "LubalinGraphStd-Medium",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-Bold', serif",
+            "label": "LubalinGraphStd-Bold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-BookOblique', serif",
+            "label": "LubalinGraphStd-BookOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-Book', serif",
+            "label": "LubalinGraphStd-Book",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Black', sans-serif",
+            "label": "HurmeGeometricSans1-Black",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-BlackObl', sans-serif",
+            "label": "HurmeGeometricSans1-BlackObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-BoldObl', sans-serif",
+            "label": "HurmeGeometricSans1-BoldObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Black', sans-serif",
+            "label": "HurmeGeometricSans2-Black",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-BoldObl', sans-serif",
+            "label": "HurmeGeometricSans2-BoldObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-BlackObl', sans-serif",
+            "label": "HurmeGeometricSans2-BlackObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Bold', sans-serif",
+            "label": "HurmeGeometricSans1-Bold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Hairline', sans-serif",
+            "label": "HurmeGeometricSans1-Hairline",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Bold', sans-serif",
+            "label": "HurmeGeometricSans2-Bold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Hairline', sans-serif",
+            "label": "HurmeGeometricSans2-Hairline",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Thin', sans-serif",
+            "label": "HurmeGeometricSans1-Thin",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-HairlineObl', sans-serif",
+            "label": "HurmeGeometricSans1-HairlineObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Light', sans-serif",
+            "label": "LubalinGraphStd-DemiOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-HairlineObl', sans-serif",
+            "label": "HurmeGeometricSans2-HairlineObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Light', sans-serif",
+            "label": "HurmeGeometricSans2-Light",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Regular', sans-serif",
+            "label": "HurmeGeometricSans1-Regular",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-SemiBold', sans-serif",
+            "label": "HurmeGeometricSans1-SemiBold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-ThinObl', sans-serif",
+            "label": "HurmeGeometricSans1-ThinObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-LightObl', sans-serif",
+            "label": "HurmeGeometricSans1-LightObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-LightObl', sans-serif",
+            "label": "HurmeGeometricSans2-LightObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-RegularObl', sans-serif",
+            "label": "HurmeGeometricSans1-RegularObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-SemiBoldObl', sans-serif",
+            "label": "HurmeGeometricSans1-SemiBoldObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Thin', sans-serif",
+            "label": "HurmeGeometricSans2-Thin",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Regular', sans-serif",
+            "label": "HurmeGeometricSans2-Regular",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-SemiBold', sans-serif",
+            "label": "HurmeGeometricSans2-SemiBold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-ThinObl', sans-serif",
+            "label": "HurmeGeometricSans2-ThinObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-RegularObl', sans-serif",
+            "label": "HurmeGeometricSans2-RegularObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-SemiBoldObl', sans-serif",
+            "label": "HurmeGeometricSans2-SemiBoldObl",
+            "group": "Roofcrop Custom"
+          },
+          {
             "value": "'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif",
             "label": "Helvetica\/Arial",
             "group": "Sans-serif"
@@ -310,6 +696,12 @@
           }
         ],
         "default": "google, 'Lato', sans-serif"
+      },
+      {
+        "type": "text",
+        "label": "Nav font size (px)",
+        "id": "font-nav-size",
+        "default": "12"
       },
       {
         "type": "select",
@@ -317,6 +709,196 @@
         "label": "Headings Font",
         "options": [
           {
+            "value": "'LubalinGraphStd-DemiOblique', serif",
+            "label": "LubalinGraphStd-DemiOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-ExtraLight', serif",
+            "label": "LubalinGraphStd-ExtraLight",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-ExtraLight', serif",
+            "label": "LubalinGraphStd-ExtraLight",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-MediumOblique', serif",
+            "label": "LubalinGraphStd-MediumOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-Demi', serif",
+            "label": "LubalinGraphStd-Demi",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-BoldOblique', serif",
+            "label": "LubalinGraphStd-BoldOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-Medium', serif",
+            "label": "LubalinGraphStd-Medium",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-Bold', serif",
+            "label": "LubalinGraphStd-Bold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-BookOblique', serif",
+            "label": "LubalinGraphStd-BookOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-Book', serif",
+            "label": "LubalinGraphStd-Book",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Black', sans-serif",
+            "label": "HurmeGeometricSans1-Black",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-BlackObl', sans-serif",
+            "label": "HurmeGeometricSans1-BlackObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-BoldObl', sans-serif",
+            "label": "HurmeGeometricSans1-BoldObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Black', sans-serif",
+            "label": "HurmeGeometricSans2-Black",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-BoldObl', sans-serif",
+            "label": "HurmeGeometricSans2-BoldObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-BlackObl', sans-serif",
+            "label": "HurmeGeometricSans2-BlackObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Bold', sans-serif",
+            "label": "HurmeGeometricSans1-Bold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Hairline', sans-serif",
+            "label": "HurmeGeometricSans1-Hairline",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Bold', sans-serif",
+            "label": "HurmeGeometricSans2-Bold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Hairline', sans-serif",
+            "label": "HurmeGeometricSans2-Hairline",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Thin', sans-serif",
+            "label": "HurmeGeometricSans1-Thin",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-HairlineObl', sans-serif",
+            "label": "HurmeGeometricSans1-HairlineObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Light', sans-serif",
+            "label": "LubalinGraphStd-DemiOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-HairlineObl', sans-serif",
+            "label": "HurmeGeometricSans2-HairlineObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Light', sans-serif",
+            "label": "HurmeGeometricSans2-Light",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Regular', sans-serif",
+            "label": "HurmeGeometricSans1-Regular",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-SemiBold', sans-serif",
+            "label": "HurmeGeometricSans1-SemiBold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-ThinObl', sans-serif",
+            "label": "HurmeGeometricSans1-ThinObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-LightObl', sans-serif",
+            "label": "HurmeGeometricSans1-LightObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-LightObl', sans-serif",
+            "label": "HurmeGeometricSans2-LightObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-RegularObl', sans-serif",
+            "label": "HurmeGeometricSans1-RegularObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-SemiBoldObl', sans-serif",
+            "label": "HurmeGeometricSans1-SemiBoldObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Thin', sans-serif",
+            "label": "HurmeGeometricSans2-Thin",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Regular', sans-serif",
+            "label": "HurmeGeometricSans2-Regular",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-SemiBold', sans-serif",
+            "label": "HurmeGeometricSans2-SemiBold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-ThinObl', sans-serif",
+            "label": "HurmeGeometricSans2-ThinObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-RegularObl', sans-serif",
+            "label": "HurmeGeometricSans2-RegularObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-SemiBoldObl', sans-serif",
+            "label": "HurmeGeometricSans2-SemiBoldObl",
+            "group": "Roofcrop Custom"
+          },
+          {
             "value": "'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif",
             "label": "Helvetica\/Arial",
             "group": "Sans-serif"
@@ -425,10 +1007,206 @@
         "default": "google, 'Lato', sans-serif"
       },
       {
+        "type": "text",
+        "label": "Heading font size (px)",
+        "id": "font-headings-size",
+        "default": "12"
+      },
+      {
         "type": "select",
         "id": "font-text",
         "label": "Text Font",
         "options": [
+          {
+            "value": "'LubalinGraphStd-DemiOblique', serif",
+            "label": "LubalinGraphStd-DemiOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-ExtraLight', serif",
+            "label": "LubalinGraphStd-ExtraLight",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-ExtraLight', serif",
+            "label": "LubalinGraphStd-ExtraLight",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-MediumOblique', serif",
+            "label": "LubalinGraphStd-MediumOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-Demi', serif",
+            "label": "LubalinGraphStd-Demi",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-BoldOblique', serif",
+            "label": "LubalinGraphStd-BoldOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-Medium', serif",
+            "label": "LubalinGraphStd-Medium",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-Bold', serif",
+            "label": "LubalinGraphStd-Bold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-BookOblique', serif",
+            "label": "LubalinGraphStd-BookOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-Book', serif",
+            "label": "LubalinGraphStd-Book",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Black', sans-serif",
+            "label": "HurmeGeometricSans1-Black",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-BlackObl', sans-serif",
+            "label": "HurmeGeometricSans1-BlackObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-BoldObl', sans-serif",
+            "label": "HurmeGeometricSans1-BoldObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Black', sans-serif",
+            "label": "HurmeGeometricSans2-Black",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-BoldObl', sans-serif",
+            "label": "HurmeGeometricSans2-BoldObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-BlackObl', sans-serif",
+            "label": "HurmeGeometricSans2-BlackObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Bold', sans-serif",
+            "label": "HurmeGeometricSans1-Bold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Hairline', sans-serif",
+            "label": "HurmeGeometricSans1-Hairline",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Bold', sans-serif",
+            "label": "HurmeGeometricSans2-Bold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Hairline', sans-serif",
+            "label": "HurmeGeometricSans2-Hairline",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Thin', sans-serif",
+            "label": "HurmeGeometricSans1-Thin",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-HairlineObl', sans-serif",
+            "label": "HurmeGeometricSans1-HairlineObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Light', sans-serif",
+            "label": "LubalinGraphStd-DemiOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-HairlineObl', sans-serif",
+            "label": "HurmeGeometricSans2-HairlineObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Light', sans-serif",
+            "label": "HurmeGeometricSans2-Light",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Regular', sans-serif",
+            "label": "HurmeGeometricSans1-Regular",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-SemiBold', sans-serif",
+            "label": "HurmeGeometricSans1-SemiBold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-ThinObl', sans-serif",
+            "label": "HurmeGeometricSans1-ThinObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-LightObl', sans-serif",
+            "label": "HurmeGeometricSans1-LightObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-LightObl', sans-serif",
+            "label": "HurmeGeometricSans2-LightObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-RegularObl', sans-serif",
+            "label": "HurmeGeometricSans1-RegularObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-SemiBoldObl', sans-serif",
+            "label": "HurmeGeometricSans1-SemiBoldObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Thin', sans-serif",
+            "label": "HurmeGeometricSans2-Thin",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Regular', sans-serif",
+            "label": "HurmeGeometricSans2-Regular",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-SemiBold', sans-serif",
+            "label": "HurmeGeometricSans2-SemiBold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-ThinObl', sans-serif",
+            "label": "HurmeGeometricSans2-ThinObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-RegularObl', sans-serif",
+            "label": "HurmeGeometricSans2-RegularObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-SemiBoldObl', sans-serif",
+            "label": "HurmeGeometricSans2-SemiBoldObl",
+            "group": "Roofcrop Custom"
+          },
           {
             "value": "'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif",
             "label": "Helvetica\/Arial",
@@ -538,10 +1316,206 @@
         "default": "'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif"
       },
       {
+        "type": "text",
+        "label": "Text font size (px)",
+        "id": "font-text-size",
+        "default": "12"
+      },
+      {
         "type": "select",
         "id": "font-accent",
         "label": "Accent Font",
         "options": [
+          {
+            "value": "'LubalinGraphStd-DemiOblique', serif",
+            "label": "LubalinGraphStd-DemiOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-ExtraLight', serif",
+            "label": "LubalinGraphStd-ExtraLight",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-ExtraLight', serif",
+            "label": "LubalinGraphStd-ExtraLight",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-MediumOblique', serif",
+            "label": "LubalinGraphStd-MediumOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-Demi', serif",
+            "label": "LubalinGraphStd-Demi",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-BoldOblique', serif",
+            "label": "LubalinGraphStd-BoldOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-Medium', serif",
+            "label": "LubalinGraphStd-Medium",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-Bold', serif",
+            "label": "LubalinGraphStd-Bold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-BookOblique', serif",
+            "label": "LubalinGraphStd-BookOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'LubalinGraphStd-Book', serif",
+            "label": "LubalinGraphStd-Book",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Black', sans-serif",
+            "label": "HurmeGeometricSans1-Black",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-BlackObl', sans-serif",
+            "label": "HurmeGeometricSans1-BlackObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-BoldObl', sans-serif",
+            "label": "HurmeGeometricSans1-BoldObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Black', sans-serif",
+            "label": "HurmeGeometricSans2-Black",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-BoldObl', sans-serif",
+            "label": "HurmeGeometricSans2-BoldObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-BlackObl', sans-serif",
+            "label": "HurmeGeometricSans2-BlackObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Bold', sans-serif",
+            "label": "HurmeGeometricSans1-Bold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Hairline', sans-serif",
+            "label": "HurmeGeometricSans1-Hairline",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Bold', sans-serif",
+            "label": "HurmeGeometricSans2-Bold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Hairline', sans-serif",
+            "label": "HurmeGeometricSans2-Hairline",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Thin', sans-serif",
+            "label": "HurmeGeometricSans1-Thin",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-HairlineObl', sans-serif",
+            "label": "HurmeGeometricSans1-HairlineObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Light', sans-serif",
+            "label": "LubalinGraphStd-DemiOblique",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-HairlineObl', sans-serif",
+            "label": "HurmeGeometricSans2-HairlineObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Light', sans-serif",
+            "label": "HurmeGeometricSans2-Light",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-Regular', sans-serif",
+            "label": "HurmeGeometricSans1-Regular",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-SemiBold', sans-serif",
+            "label": "HurmeGeometricSans1-SemiBold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-ThinObl', sans-serif",
+            "label": "HurmeGeometricSans1-ThinObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-LightObl', sans-serif",
+            "label": "HurmeGeometricSans1-LightObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-LightObl', sans-serif",
+            "label": "HurmeGeometricSans2-LightObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-RegularObl', sans-serif",
+            "label": "HurmeGeometricSans1-RegularObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans1-SemiBoldObl', sans-serif",
+            "label": "HurmeGeometricSans1-SemiBoldObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Thin', sans-serif",
+            "label": "HurmeGeometricSans2-Thin",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-Regular', sans-serif",
+            "label": "HurmeGeometricSans2-Regular",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-SemiBold', sans-serif",
+            "label": "HurmeGeometricSans2-SemiBold",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-ThinObl', sans-serif",
+            "label": "HurmeGeometricSans2-ThinObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-RegularObl', sans-serif",
+            "label": "HurmeGeometricSans2-RegularObl",
+            "group": "Roofcrop Custom"
+          },
+          {
+            "value": "'HurmeGeometricSans2-SemiBoldObl', sans-serif",
+            "label": "HurmeGeometricSans2-SemiBoldObl",
+            "group": "Roofcrop Custom"
+          },
           {
             "value": "'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif",
             "label": "Helvetica\/Arial",
@@ -649,6 +1623,12 @@
           }
         ],
         "default": "google, 'Lato', sans-serif"
+      },
+      {
+        "type": "text",
+        "label": "Accent font size (px)",
+        "id": "font-accent-size",
+        "default": "12"
       }
     ]
   },
