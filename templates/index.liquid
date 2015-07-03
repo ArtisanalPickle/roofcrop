@@ -67,15 +67,15 @@
                     <div class="caption {{ settings[slide_x_pos] }} {{ settings[slide_y_pos] }} {{ settings[slide_text_pos] }}">
                       <div class="bg"></div>
                     {% if settings[slide_title].size > 0 %}
-                      <h2 class="title">{{ settings[slide_title] }}</h2>
+                      <div class="slide-secondry">{{ settings[slide_title] }}</div>
                     {% endif %}
 
                     {% if settings[slide_tagline].size > 0 %}
-                      <h3 class="sub-title">{{ settings[slide_tagline] }}</h3>
+                      <div class="slide-primary">{{ settings[slide_tagline] }}</div>
                     {% endif %}
 
                     {% if settings[slide_link_title].size > 0 %}
-                      <a class="button" href="{{ settings[slide_link_url] }}">{{ settings[slide_link_title] }}</a>
+                      <div class="slide-secondary">{{ settings[slide_link_title] }}</div>
                     {% endif %}
                   </div><!--.slide_caption -->
                 {% endif %}
