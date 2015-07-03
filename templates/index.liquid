@@ -68,15 +68,15 @@
                     <div class="caption {{ settings[slide_x_pos] }} {{ settings[slide_y_pos] }} {{ settings[slide_text_pos] }}">
                       <div class="bg"></div>
                     {% if settings[slide_title].size > 0 %}
-                      <div class="slide-secondary{% if slide_img_dark %} text-dark-bg{% endif %}">{{ settings[slide_title] }}</div>
+                      <div class="slide-secondary{% if settings[slide_img_dark] %} text-dark-bg{% endif %}">{{ settings[slide_title] }}</div>
                     {% endif %}
 
                     {% if settings[slide_tagline].size > 0 %}
-                      <div class="slide-primary{% if slide_img_dark %} text-dark-bg{% endif %}">{{ settings[slide_tagline] }}</div>
+                      <div class="slide-primary{% if settings[slide_img_dark] %} text-dark-bg{% endif %}">{{ settings[slide_tagline] }}</div>
                     {% endif %}
 
                     {% if settings[slide_link_title].size > 0 %}
-                      <div class="slide-secondary{% if slide_img_dark %} text-dark-bg{% endif %}">{{ settings[slide_link_title] }}</div>
+                      <div class="slide-secondary{% if settings[slide_img_dark] %} text-dark-bg{% endif %}">{{ settings[slide_link_title] }}</div>
                     {% endif %}
                   </div><!--.slide_caption -->
                 {% endif %}
