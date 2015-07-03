@@ -2579,6 +2579,11 @@
         "info": "(Recommended 1200px by 700px)"
       },
       {
+        "type": "checkbox",
+        "id": "home-slider-slide-1-dark-bg",
+        "label": "Dark background on text?"
+      },
+      {
         "type": "text",
         "id": "home-slider-slide-1-title",
         "label": "Title"
@@ -2677,6 +2682,11 @@
         "label": "Image",
         "max-width": 1200,
         "info": "(Recommended 1200px by 700px)"
+      },
+      {
+        "type": "checkbox",
+        "id": "home-slider-slide-2-dark-bg",
+        "label": "Dark background on text?"
       },
       {
         "type": "text",
@@ -2779,6 +2789,11 @@
         "info": "(Recommended 1200px by 700px)"
       },
       {
+        "type": "checkbox",
+        "id": "home-slider-slide-3-dark-bg",
+        "label": "Dark background on text?"
+      },
+      {
         "type": "text",
         "id": "home-slider-slide-3-title",
         "label": "Title"
@@ -2877,6 +2892,11 @@
         "label": "Image",
         "max-width": 1200,
         "info": "(Recommended 1200px by 700px)"
+      },
+      {
+        "type": "checkbox",
+        "id": "home-slider-slide-4-dark-bg",
+        "label": "Dark background on text?"
       },
       {
         "type": "text",
@@ -2979,6 +2999,11 @@
         "info": "(Recommended 1200px by 700px)"
       },
       {
+        "type": "checkbox",
+        "id": "home-slider-slide-5-dark-bg",
+        "label": "Dark background on text?"
+      },
+      {
         "type": "text",
         "id": "home-slider-slide-5-title",
         "label": "Title"
@@ -3077,6 +3102,11 @@
         "label": "Image",
         "max-width": 1200,
         "info": "(Recommended 1200px by 700px)"
+      },
+      {
+        "type": "checkbox",
+        "id": "home-slider-slide-6-dark-bg",
+        "label": "Dark background on text?"
       },
       {
         "type": "text",

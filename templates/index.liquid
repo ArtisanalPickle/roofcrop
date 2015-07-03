@@ -14,6 +14,7 @@
             {% capture slide_enabled %}home-slider-slide-{{ i }}-enabled{% endcapture %}
             
             {% capture slide_img %}home-slider-slide-{{ i }}.jpg{% endcapture %}
+            {% capture slide_img_dark %}home-slider-slide-{{ i }}-dark-bg{% endcapture %}
             {% capture slide_media_type %}home-slider-slide-{{ i }}-type{% endcapture %}
             {% capture slide_bg_color %}home-slider-slide-{{ i }}-bg-color{% endcapture %}
             {% capture slide_title %}home-slider-slide-{{ i }}-title{% endcapture %}
@@ -67,15 +68,15 @@
                     <div class="caption {{ settings[slide_x_pos] }} {{ settings[slide_y_pos] }} {{ settings[slide_text_pos] }}">
                       <div class="bg"></div>
                     {% if settings[slide_title].size > 0 %}
-                      <div class="slide-secondry">{{ settings[slide_title] }}</div>
+                      <div class="slide-secondary{% if slide_img_dark %} dark-bg{% endif %}">{{ settings[slide_title] }}</div>
                     {% endif %}
 
                     {% if settings[slide_tagline].size > 0 %}
-                      <div class="slide-primary">{{ settings[slide_tagline] }}</div>
+                      <div class="slide-primary{% if slide_img_dark %} dark-bg{% endif %}">{{ settings[slide_tagline] }}</div>
                     {% endif %}
 
                     {% if settings[slide_link_title].size > 0 %}
-                      <div class="slide-secondary">{{ settings[slide_link_title] }}</div>
+                      <div class="slide-secondary{% if slide_img_dark %} dark-bg{% endif %}">{{ settings[slide_link_title] }}</div>
                     {% endif %}
                   </div><!--.slide_caption -->
                 {% endif %}
