@@ -1,0 +1,58 @@
+  <header class="main-header">
+    <div class="bg"></div>
+    <div class="row top">
+      {% if settings.show_multiple_currencies and settings.header-logo-center %}
+        <div class="currency-selector columns left-aligned">
+          {% include 'snippet-currency-selector' %}
+        </div>
+      {% endif %}
+
+      <div class="columns{% if settings.header-logo-center %} logo-center{% endif %}">
+        {% include 'snippet-store-title' %}
+      </div>
+
+      <div class="search-account columns">
+        {% include 'snippet-searchbar-account' %}
+      </div>
+
+    </div><!-- .row -->
+
+    <div class="bottom-row">
+      <div class="row">
+        <div class="columns menu-container{% if settings.header-menu-center %} text-center{% endif %}">
+          {% include 'snippet-main-menu' %}
+        </div>
+
+        <div class="columns cart-container">
+          {% include 'snippet-cart' %}
+        </div>
+
+        <div class="mobile-tools">
+          <a class="glyph menu" href=""></a>
+          {% if settings.header-search-show %}
+          <a href="/search" class="glyph search"></a>
+          {% endif %}
+          {% if settings.header-account-show and shop.customer_accounts_enabled %}
+          <a href="/account" class="glyph account"></a>
+          {% endif %}
+          <a href="/cart" class="glyph cart"></a>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="main-menu-dropdown-panel">
+      <div class="row{% if settings.header-menu-center %} text-center{% endif %}">
+
+      </div>
+    </div>
+
+    <div class="mobile-menu">
+      {% include 'snippet-mobile-menu' %}
+    </div>
+
+    <div class="row">
+      <div class="header-divider"></div>
+    </div>
+
+  </header>
