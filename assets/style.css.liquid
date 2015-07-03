@@ -1876,6 +1876,11 @@ h1, h2, h3, h4, h5, h6 { font-size: {{settings.font-headings-size}}px !important
   line-height: 26px;
 }
 
-.text-dark-bg {
-  color: #fff;
+/*
+  only show white if on desktop; otherwise, on mobile, it's pushed into a white div
+*/
+@media only screen and (min-width: 768px) {
+  .slide-text-dark-bg {
+    color: #fff;
+  }  
 }
