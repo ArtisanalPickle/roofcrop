@@ -7,13 +7,11 @@
         </div>
       {% endif %}
 
+      <!--
       <div class="columns{% if settings.header-logo-center %} logo-center{% endif %}">
         {% include 'snippet-store-title' %}
       </div>
-
-      <div class="search-account columns">
-        {% include 'snippet-searchbar-account' %}
-      </div>
+      -->
 
     </div><!-- .row -->
 
@@ -21,6 +19,10 @@
       <div class="row">
         <div class="columns menu-container{% if settings.header-menu-center %} text-center{% endif %}">
           {% include 'snippet-main-menu' %}
+        </div>
+
+        <div class="search-account columns">
+          {% include 'snippet-searchbar-account' %}
         </div>
 
         <div class="columns cart-container">
