@@ -1,19 +1,5 @@
   <header class="main-header">
     <div class="bg"></div>
-    <div class="row top">
-      {% if settings.show_multiple_currencies and settings.header-logo-center %}
-        <div class="currency-selector columns left-aligned">
-          {% include 'snippet-currency-selector' %}
-        </div>
-      {% endif %}
-
-      <!--
-      <div class="columns{% if settings.header-logo-center %} logo-center{% endif %}">
-        {% include 'snippet-store-title' %}
-      </div>
-      -->
-
-    </div><!-- .row -->
 
     <div class="bottom-row">
       <div class="row">
@@ -25,10 +11,11 @@
           {% include 'snippet-searchbar-account' %}
         </div>
 
+        <!--
         <div class="columns cart-container">
           {% include 'snippet-cart' %}
         </div>
-
+        -->
         <div class="mobile-tools">
           <a class="glyph menu" href=""></a>
           {% if settings.header-search-show %}
